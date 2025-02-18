@@ -1,0 +1,1 @@
+This repository contains a simple PHP example demonstrating a common error: calling an undefined function.  The `bug.php` file shows the erroneous code, while `bugSolution.php` provides the corrected version.  This is a crucial concept for beginners in PHP to understand function scope and declaration order.
